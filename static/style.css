@@ -1,0 +1,13 @@
+body {
+    margin: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
